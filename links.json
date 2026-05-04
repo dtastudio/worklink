@@ -1,0 +1,36 @@
+{
+  "title": "WorkLink",
+  "subtitle": "Quick downloads",
+  "links": [
+    {
+      "name": "Adobe Photoshop 2024",
+      "url": "https://example.com/photoshop-download-link",
+      "icon": "🎨"
+    },
+    {
+      "name": "Microsoft Office 365",
+      "url": "https://example.com/office-download-link",
+      "icon": "📄"
+    },
+    {
+      "name": "AutoCAD 2024",
+      "url": "https://example.com/autocad-download-link",
+      "icon": "📐"
+    },
+    {
+      "name": "Visual Studio Code",
+      "url": "https://example.com/vscode-download-link",
+      "icon": "💻"
+    },
+    {
+      "name": "Figma Desktop",
+      "url": "https://example.com/figma-download-link",
+      "icon": "✏️"
+    },
+    {
+      "name": "OBS Studio",
+      "url": "https://example.com/obs-download-link",
+      "icon": "🎥"
+    }
+  ]
+}
