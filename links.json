@@ -1,36 +1,61 @@
 {
-  "title": "WorkLink",
+  "title": "DTA Studio",
   "subtitle": "Quick downloads",
   "links": [
     {
-      "name": "Adobe Photoshop 2024",
-      "url": "https://example.com/photoshop-download-link",
-      "icon": "🎨"
+      "name": "Bộ cài đặt — VikingFile",
+      "url": "https://vikingfile.com/f/7RvP72dpBP#DTAPRO_X_AIO_2026_V3.rar",
+      "icon": "📦"
     },
     {
-      "name": "Microsoft Office 365",
-      "url": "https://example.com/office-download-link",
-      "icon": "📄"
+      "name": "Bộ cài đặt — Google Drive",
+      "url": "https://drive.google.com/file/d/1zJkzVDC4XU43OmMMG6Nj1cHJUbuK1z3U/view?usp=drive_link",
+      "icon": "📦"
     },
     {
-      "name": "AutoCAD 2024",
-      "url": "https://example.com/autocad-download-link",
-      "icon": "📐"
+      "name": "Cubase Auto — VikingFile",
+      "url": "https://vikingfile.com/f/hGMGNdTy4f#DTA_AutoLive_Pro_2026_Cubase_V8.5.8.exe",
+      "icon": "🎹"
     },
     {
-      "name": "Visual Studio Code",
-      "url": "https://example.com/vscode-download-link",
-      "icon": "💻"
+      "name": "Cubase Auto — Google Drive",
+      "url": "https://drive.google.com/file/d/1B2A7dSf8uUybD--KEBLXH54QyzZmjs7T/view?usp=drive_link",
+      "icon": "🎹"
     },
     {
-      "name": "Figma Desktop",
-      "url": "https://example.com/figma-download-link",
-      "icon": "✏️"
+      "name": "Studio One — VikingFile",
+      "url": "https://vikingfile.com/f/tRm7hf2lse#DTAStudio_AutoLivePro_2026_StudioOne_V9.5.8.exe",
+      "icon": "🎵"
     },
     {
-      "name": "OBS Studio",
-      "url": "https://example.com/obs-download-link",
-      "icon": "🎥"
+      "name": "Studio One — Google Drive",
+      "url": "https://drive.google.com/file/d/11I-A8O8cYN0royjmQaRNjT1KPcMTpibU/view?usp=drive_link",
+      "icon": "🎵"
+    },
+    {
+      "name": "Phú Ngao — VikingFile",
+      "url": "https://vikingfile.com/f/bTHE3gQIgt#DTA_AutoLivePro_2026_Cubase_V8.5.8_AnPhu.exe",
+      "icon": "🎤"
+    },
+    {
+      "name": "Phú Ngao — Google Drive",
+      "url": "https://drive.google.com/file/d/112jYzirR4-nDggaf5XIpn3RFFIWTPzVP/view?usp=drive_link",
+      "icon": "🎤"
+    },
+    {
+      "name": "App Trung DTA",
+      "url": "https://drive.google.com/file/d/1WYUkalwx_xeBOjaeLm9HGYw66g-6x0fm/view?usp=drive_link",
+      "icon": "📱"
+    },
+    {
+      "name": "App Trung Vũ",
+      "url": "https://drive.google.com/file/d/12VuO1wlKXVFg5kUi6tF8odbjSzZGkGOD/view?usp=drive_link",
+      "icon": "📱"
+    },
+    {
+      "name": "Drive Tổng Hợp",
+      "url": "https://drive.google.com/drive/folders/1LzabQGEF7Op5xSQYZ3lGaI08lcGze8s-",
+      "icon": "📂"
     }
   ]
 }
