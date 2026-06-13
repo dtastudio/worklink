@@ -18,6 +18,16 @@
       "icon": "🏠"
     },
     {
+      "name": "Mac Auto — VikingFile",
+      "url": "",
+      "icon": "🍎"
+    },
+    {
+      "name": "Mac Auto — Google Drive",
+      "url": "",
+      "icon": "🍎"
+    },
+    {
       "name": "Cubase Auto — VikingFile",
       "url": "https://vikingfile.com/f/TxXKfc8EN6#DTA_AutoLive_Pro_2026_Cubase_V8.6.9.exe",
       "icon": "🎹"
@@ -48,13 +58,23 @@
       "icon": "🎤"
     },
     {
-      "name": "App Trung DTA",
-      "url": "https://vikingfile.com/f/cTeUacCTBg#StreamingTool_DTA_V270426.exe",
+      "name": "App Trung DTA — VikingFile",
+      "url": "https://vikingfile.com/f/koORH5AErB#StreamingTool_DTA_V2026_NG.exe",
       "icon": "📱"
     },
     {
-      "name": "App Trung Vũ",
-      "url": "https://vikingfile.com/f/Zoqv3IRx7O#StreamingTool_DTA_Vu.exe",
+      "name": "App Trung DTA — Google Drive",
+      "url": "https://drive.google.com/file/d/1kbAJTuUVVdHcQbeQBDcQ2RM0wQ7Lq4yo/view?usp=drive_link",
+      "icon": "📱"
+    },
+    {
+      "name": "App Trung Vũ — VikingFile",
+      "url": "https://vikingfile.com/f/1NLyYWiohC#StreamingTool_DTA_V2026_NG_Vu.exe",
+      "icon": "📱"
+    },
+    {
+      "name": "App Trung Vũ — Google Drive",
+      "url": "https://drive.google.com/file/d/1NeD87PJHzP1SOGFbpq5CMyME7HFgjC3F/view?usp=drive_link",
       "icon": "📱"
     },
     {
