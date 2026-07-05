@@ -3,6 +3,11 @@
   "subtitle": "Quick downloads",
   "links": [
     {
+      "name": "RustDesk",
+      "url": "https://gofile.io/d/Bo7UqN",
+      "icon": "📦"
+    },
+    {
       "name": "Bộ cài đặt — VikingFile",
       "url": "https://gofile.io/d/6CT3sk",
       "icon": "📦"
